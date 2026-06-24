@@ -5,6 +5,11 @@
 Una semplice applicazione web sviluppata con React che mostra i Pokémon starter dalla Prima alla Quarta Generazione. I dati vengono recuperati tramite PokéAPI e possono essere cercati e filtrati facilmente.
 
 
+## Demo
+
+![Screenshot](assets/pokedexCard.png)
+
+
 
 ## ✨ Funzionalità
 
